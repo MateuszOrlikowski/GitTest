@@ -1,6 +1,6 @@
 #functions
 def function_one():
-	print("one")
+	print("one one one")
 
 
 def function_two():
