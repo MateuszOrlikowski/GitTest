@@ -6,12 +6,7 @@ def function_one():
 def function_two():
 	print("two")
 
-<<<<<<< HEAD
 def thirdFuction():
-	print("this is third fucntion")
-=======
-def thirdFunction():
-	print("third")
->>>>>>> addAnotherThirdFunction
+	print("third, this is the third function")
 #main
 function_one()
